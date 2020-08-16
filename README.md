@@ -1,1 +1,1 @@
-# graph-pathfinding-visualizer
+# Graph Pathfinding Algorithm
